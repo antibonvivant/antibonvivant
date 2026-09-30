@@ -47,7 +47,7 @@ Estou concentrando meus estudos e projetos nesses temas, conectando segurança �
 
 ### Vamos conversar?
 
-Busco oportunidades de **estágio ou entrada em SOC, Blue Team e operações de TI**, incluindo NOC, IAM, infraestrutura e suporte cloud. Meu portfólio reúne o que estou preparando e a evolução das investigações.
+Busco oportunidades de **nível júnior em SOC, Blue Team e operações de TI**, incluindo NOC, IAM, infraestrutura e suporte cloud. Meu portfólio reúne o que estou preparando e a evolução das investigações.
 
 <p align="center">
   <a href="https://github.com/antibonvivant/cybersecurity-portfolio">Portfólio de segurança</a> · <a href="https://github.com/antibonvivant?tab=repositories">Repositórios</a>
