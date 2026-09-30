@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Kaique Brito. Security mindset. Builder at heart.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071522"/><stop offset="1" stop-color="#102d42"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#61cfff" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/><rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<path d="M875 76h90l54 54h111M843 165h143l62 62h82M906 267l58-58" stroke="#35d5cf" stroke-width="2" fill="none" opacity=".45"/>
+<g fill="#35d5cf"><circle cx="875" cy="76" r="5"/><circle cx="843" cy="165" r="5"/><circle cx="906" cy="267" r="5"/><circle cx="1130" cy="130" r="5"/><circle cx="1130" cy="227" r="5"/></g>
+<rect x="55" y="51" width="4" height="229" fill="#35d5cf"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="82" y="78" font-size="15" letter-spacing="4" fill="#69ded8">SECURITY MINDSET. BUILDER AT HEART.</text><text x="78" y="164" font-size="70" font-weight="700" letter-spacing="-2" fill="#f0f7ff">Kaique Brito</text><text x="82" y="210" font-size="23" fill="#acc7dc">SOC / BLUE TEAM / PYTHON</text><text x="82" y="265" font-size="16" fill="#7c9eb8">INVESTIGATE WITH CURIOSITY. BUILD WITH PURPOSE.</text></g>
+</svg>
